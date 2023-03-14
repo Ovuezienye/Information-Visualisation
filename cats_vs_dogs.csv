@@ -1,0 +1,50 @@
+state,households,pet_owning_households,dog_households,dog_population,cat_households,cat_population,pet_population,household_type
+Alabama,1828,1088,807,1410,501,1252,2662,dog_households
+Arizona,2515,1497,1008,1798,743,1438,3236,dog_households
+Arkansas,1148,716,550,1097,351,810,1907,dog_households
+California,12974,6865,4260,6687,3687,7118,13805,dog_households
+Colorado,1986,1217,845,1349,642,1191,2540,dog_households
+Connecticut,1337,728,379,507,427,796,1303,cat_households
+Delaware,334,189,113,163,113,187,350,cat_households
+District of Columbia,287,63,38,42,33,63,105,dog_households
+Florida,7609,4138,2718,4210,2079,4375,8585,dog_households
+Georgia,3798,2093,1522,2479,1037,2162,4641,dog_households
+Idaho,568,352,242,357,196,393,750,dog_households
+Illinois,5026,2602,1627,2365,1321,2453,4818,dog_households
+Indiana,2478,1484,989,1619,852,1912,3531,dog_households
+Iowa,1219,654,407,610,370,805,1415,dog_households
+Kansas,1133,691,480,774,378,731,1505,dog_households
+Kentucky,1777,1094,816,1531,654,1349,2880,dog_households
+Louisiana,1702,937,619,1115,441,877,1992,dog_households
+Maine,548,345,190,300,254,498,798,cat_households
+Maryland,2169,1134,667,915,645,1677,2592,dog_households
+Massachusetts,2618,1318,618,850,892,1593,2443,cat_households
+Michigan,3804,2108,1318,2036,1192,2420,4456,dog_households
+Minnesota,2163,1146,690,934,643,1264,2198,dog_households
+Mississippi,1115,629,504,846,324,668,1514,dog_households
+Missouri,2498,1534,1148,1978,805,1653,3631,dog_households
+Montana,410,251,169,282,138,277,559,dog_households
+Nebraska,710,364,240,374,222,514,888,dog_households
+Nevada,986,548,366,578,299,625,1203,dog_households
+New Hampshire,508,289,154,212,174,309,521,cat_households
+New Jersey,3177,1611,1028,1340,803,1468,2808,dog_households
+New Mexico,773,523,356,703,247,533,1236,dog_households
+New York,7512,3802,2177,3054,2189,4261,7315,cat_households
+North Carolina,3701,2089,1491,2518,1090,2220,4738,dog_households
+North Dakota,272,147,98,139,85,174,313,dog_households
+Ohio,4661,2677,1708,2730,1553,3786,6516,dog_households
+Oklahoma,1479,872,638,1327,482,1041,2368,dog_households
+Oregon,1505,957,584,917,605,1185,2102,cat_households
+Pennsylvania,5172,2942,1702,2485,1748,3544,6029,cat_households
+Rhode Island,434,230,127,161,120,212,373,dog_households
+South Carolina,1759,951,678,1191,490,1039,2230,dog_households
+South Dakota,333,219,143,220,130,290,510,dog_households
+Tennessee,2583,1540,1140,2157,770,1749,3906,dog_households
+Texas,9002,5265,3960,7163,2544,5565,12728,dog_households
+Utah,930,476,273,410,229,455,865,dog_households
+Vermont,265,188,100,142,131,234,376,cat_households
+Virginia,3017,1611,1069,1699,876,1855,3554,dog_households
+Washington,2632,1649,954,1609,1028,1844,3453,cat_households
+West Virginia,765,475,350,648,291,628,1276,dog_households
+Wisconsin,2350,1352,796,1138,776,1510,2648,dog_households
+Wyoming,221,137,86,125,75,144,269,dog_households
